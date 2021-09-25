@@ -1,0 +1,50 @@
+0,/mnt/newdisk3/data_for2d/healthy/healthy/P4220476-CHEN_SHUANG_HONG-20200210.nii,False
+1,/mnt/newdisk3/data_for2d/bacteria/S. aureus/P3046896-SHU_DONG-20180207.nii,False
+2,/mnt/newdisk3/data_for2d/virus/CMV/P4110824-HE_GUI_PING-20191128.nii,False
+3,/mnt/newdisk3/data_for2d/healthy/healthy/P4216928-LIU_DI_FAN-20200201.nii,False
+4,/mnt/newdisk3/data_for2d/fungus/aspergillus/P3162526-HAN_FAN-20180515.nii,False
+5,/mnt/newdisk3/data_for2d/bacteria/Acinetobacter bowman/P4363439-ZHANG_YI_BIN-20200709.nii,False
+6,/mnt/newdisk3/data_for2d/fungus/aspergillus/P2542982-CHEN_JI_CHUN-20170215.nii,False
+7,/mnt/newdisk3/data_for2d/bacteria/Klebsiella/P4087969-LI_SHI_YAN-20191107.nii,False
+8,/mnt/newdisk3/data_for2d/virus/covid19/P4216585-WEI_HAN_HUI-20200131.nii,False
+9,/mnt/newdisk3/data_for2d/virus/covid19/P4231200-YAO_JIN_TI-20200319.nii,False
+10,/mnt/newdisk3/data_for2d/bacteria/Pseudomonas aeruginosa/P4540231-XU JIANG YING-20201028.nii,False
+11,/mnt/newdisk3/data_for2d/virus/covid19/P0848894-AI_JIA_DI-20200210.nii,False
+12,/mnt/newdisk3/data_for2d/fungus/PCP/CT2014188-CENG PENG-20200704.nii,False
+13,/mnt/newdisk3/data_for2d/bacteria/Pseudomonas aeruginosa/P4514568-LI_XUE_BING-20201017.nii,False
+14,/mnt/newdisk3/data_for2d/healthy/healthy/P0878330-WANG_JIA-20200209.nii,False
+15,/mnt/newdisk3/data_for2d/virus/covid19/P4220616-CHEN_BI_YU-20200218.nii,False
+16,/mnt/newdisk3/data_for2d/chlamydia/chlamydia/P4221712-HAN_DE_HUA-20200213.nii,False
+17,/mnt/newdisk3/data_for2d/virus/covid19/P4216130-ZHANG_XIAO_HONG-20200129.nii,False
+18,/mnt/newdisk3/data_for2d/healthy/healthy/P4219528-GU_YONG_JIE-20200207.nii,False
+19,/mnt/newdisk3/data_for2d/fungus/aspergillus/P4091500-HUANG_HONG_BO-20191112.nii,False
+20,/mnt/newdisk3/data_for2d/bacteria/Pseudomonas aeruginosa/P4441566-XU_QING_BIN-20200831.nii,False
+21,/mnt/newdisk3/data_for2d/virus/covid19/P4223782-HUANG_CHANG_ZHU-20200224.nii,False
+22,/mnt/newdisk3/data_for2d/virus/covid19/P4215604-XIAO_HUI_QING-20200128.nii,False
+23,/mnt/newdisk3/data_for2d/virus/covid19/P4215290-HAN_JING_XI-20200208.nii,False
+24,/mnt/newdisk3/data_for2d/virus/covid19/P4215170-ZHANG_SHOU_TAO-20200201.nii,False
+25,/mnt/newdisk3/data_for2d/fungus/aspergillus/P3575521-CHENG_YA_PING-20190114.nii,False
+26,/mnt/newdisk3/data_for2d/bacteria/Pseudomonas aeruginosa/P4269196-LIAO_PAN-20200505.nii,False
+27,/mnt/newdisk3/data_for2d/virus/covid19/P4212004-FAN_SHENG_LIANG-20200206.nii,False
+28,/mnt/newdisk3/data_for2d/bacteria/Acinetobacter bowman/P3051721-LI_HUA_ZHANG-20200704.nii,False
+29,/mnt/newdisk3/data_for2d/fungus/PCP/CT2021206-杨世兵-20201102.nii,False
+30,/mnt/newdisk3/data_for2d/virus/covid19/P4216450-CHENG_ZU_YI-20200130.nii,False
+31,/mnt/newdisk3/data_for2d/virus/covid19/P4216766-CAO_JIN_YUN-20200131.nii,False
+32,/mnt/newdisk3/data_for2d/virus/CMV/P4446933-JIN_WANG_XIN-20200902.nii,False
+33,/mnt/newdisk3/data_for2d/chlamydia/chlamydia/P4300617-LIU_JIN_JU-20200530.nii,False
+34,/mnt/newdisk3/data_for2d/bacteria/Klebsiella/P3985451-ZOU_GUI_YUN-20190910.nii,False
+35,/mnt/newdisk3/data_for2d/bacteria/Acinetobacter bowman/P4318435-LIU_CHAO_YA-20200611.nii,False
+36,/mnt/newdisk3/data_for2d/virus/covid19/P4216069-DONG_HUA_QIAO-20200218.nii,False
+37,/mnt/newdisk3/data_for2d/virus/covid19/P4216014-YANG_LAN_ZHEN-20200129.nii,False
+38,/mnt/newdisk3/data_for2d/virus/covid19/P4216043-XIAO_FEI-20200129.nii,False
+39,/mnt/newdisk3/data_for2d/virus/covid19/P4216178-CHEN_LI_JUN-20200130.nii,False
+40,/mnt/newdisk3/data_for2d/virus/Respiratory syncytial/P4585636-ZHANG_SU_E-20201123.nii,False
+41,/mnt/newdisk3/data_for2d/virus/covid19/P4216418-XIAO_WEN_JING-20200303.nii,False
+42,/mnt/newdisk3/data_for2d/bacteria/Pseudomonas aeruginosa/P3981519-ZHANG_JIN_FENG-20190909.nii,False
+43,/mnt/newdisk3/data_for2d/virus/CMV/P3485717-SHI_CHUN_XIANG-20181119.nii,False
+44,/mnt/newdisk3/data_for2d/fungus/candida/P4558492-TAN_JIAN_LAN-20201114.nii,False
+45,/mnt/newdisk3/data_for2d/bacteria/Klebsiella/P3864919-GUO_SHI_SHU-20190801.nii,False
+46,/mnt/newdisk3/data_for2d/virus/covid19/P4223285-HE_GUI_LAN-20200303.nii,False
+47,/mnt/newdisk3/data_for2d/virus/covid19/P4235356-LI_XIAN_HONG-20200320.nii,False
+48,/mnt/newdisk3/data_for2d/virus/covid19/P4215336-HUANG_HE_PING-20200127.nii,False
+49,/mnt/newdisk3/data_for2d/virus/CMV/P3659440-LI_JIN_SHAN-20190312.nii,False

@@ -1,0 +1,15 @@
+No Findingauc0.6031167108753315
+Enlarged Cardiomediastinumauc0.8333834586466166
+Cardiomegalyauc0.7946630483943916
+Lung Opacityauc0.8998357963875205
+Lung Lesionauc0.31658291457286436
+Edemaauc0.9116937914406269
+Consolidationauc0.8796502976190477
+Pneumoniaauc0.8626302083333333
+Atelectasisauc0.84544
+Pneumothoraxauc0.8281786941580755
+Pleural Effusionauc0.8947610294117647
+Pleural Otherauc0.10552763819095479
+Fractureaucnan
+Support Devices
+auc0.854085408540854

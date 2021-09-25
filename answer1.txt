@@ -1,0 +1,50 @@
+0,/mnt/newdisk3/data_for2d/fungus/PCP/CT2002414-DU JIAN-20200120.nii,8
+1,/mnt/newdisk3/data_for2d/virus/covid19/P4219186-CHEN_HUAN_YUE-20200212.nii,4
+2,/mnt/newdisk3/data_for2d/bacteria/Pseudomonas aeruginosa/P3579897-REN_YU_QIN-20200821.nii,11
+3,/mnt/newdisk3/data_for2d/virus/Coxsackie virus/P4266911-ZHANG_SHENG_HUA-20200503.nii,1
+4,/mnt/newdisk3/data_for2d/bacteria/Streptococcus/P1196448-YAO_TIAN_TIAN-20140403.nii,13
+5,/mnt/newdisk3/data_for2d/virus/Respiratory syncytial/P4450352-CHEN_SHAO_ZHENG-20201124.nii,3
+6,/mnt/newdisk3/data_for2d/bacteria/Klebsiella/P4056853-HUANG_SHENG_WU-20191024.nii,10
+7,/mnt/newdisk3/data_for2d/virus/H7N9/CT1703023-CAO CHANG WEN-20170219.nii,2
+8,/mnt/newdisk3/data_for2d/mycoplasma/mycoplasma/P3612082-FENG_KE_XUAN-20190212.nii,15
+9,/mnt/newdisk3/data_for2d/virus/CMV/P3993198-CAO_MENG_SHENG-20191027.nii,0
+10,/mnt/newdisk3/data_for2d/virus/Respiratory syncytial/P4521489-YE_PING-20201025.nii,3
+11,/mnt/newdisk3/data_for2d/fungus/aspergillus/P3131414-TAO_SHOU_WEN-20180411.nii,5
+12,/mnt/newdisk3/data_for2d/bacteria/Klebsiella/P4016784-LV_JI_MEI-20191010.nii,10
+13,/mnt/newdisk3/data_for2d/chlamydia/chlamydia/P4300617-LIU_JIN_JU-20200530.nii,14
+14,/mnt/newdisk3/data_for2d/mycoplasma/mycoplasma/P2288887-SHI_GUI_PING-20160708.nii,15
+15,/mnt/newdisk3/data_for2d/fungus/candida/P2675306-LIU_JIA_ME-20170515.nii,6
+16,/mnt/newdisk3/data_for2d/bacteria/S. aureus/P3051061-WU_XIANG_JUN-20180212.nii,12
+17,/mnt/newdisk3/data_for2d/virus/CMV/P3802892-CHEN_BAO_MEI-20190625.nii,0
+18,/mnt/newdisk3/data_for2d/bacteria/S. aureus/P0792808-WANG_CHONG-20130128.nii,12
+19,/mnt/newdisk3/data_for2d/fungus/aspergillus/P4025781-YANG_FU_YING-20191003.nii,5
+20,/mnt/newdisk3/data_for2d/bacteria/Acinetobacter bowman/P3907681-DONG_HAI_PING-20190808.nii,9
+21,/mnt/newdisk3/data_for2d/bacteria/Streptococcus/P2096218-XIANG_SONG_HUA-20160228.nii,13
+22,/mnt/newdisk3/data_for2d/mycoplasma/mycoplasma/P1680253-CHEN_XUE-20150519.nii,15
+23,/mnt/newdisk3/data_for2d/virus/covid19/P4215999-DONG_ZHONG-20200212.nii,4
+24,/mnt/newdisk3/data_for2d/fungus/cryptococcus/P4402329-HAN KUN-20200804.nii,7
+25,/mnt/newdisk3/data_for2d/chlamydia/chlamydia/P4368662-LI_ZHAO-20200713.nii,14
+26,/mnt/newdisk3/data_for2d/bacteria/Klebsiella/P4111367-LI_RONG_GUI-20191223.nii,10
+27,/mnt/newdisk3/data_for2d/bacteria/Acinetobacter bowman/P3477060-WAN_SHUANG_WU-20181115.nii,9
+28,/mnt/newdisk3/data_for2d/chlamydia/chlamydia/P4256668-CHEN_XI_YING-20200420.nii,14
+29,/mnt/newdisk3/data_for2d/fungus/aspergillus/P3690663-LIU_QIONG_HUA-20190331.nii,5
+30,/mnt/newdisk3/data_for2d/virus/CMV/P4425466-CHENG_YU_MO-20200826.nii,0
+31,/mnt/newdisk3/data_for2d/fungus/cryptococcus/P4346714-TANG_MIN_HUA-20200630.nii,7
+32,/mnt/newdisk3/data_for2d/virus/Respiratory syncytial/P4385063-XIA_CUI_HONG-20200807.nii,3
+33,/mnt/newdisk3/data_for2d/virus/H7N9/CT1701856-HU JIA QIN-20170204.nii,2
+34,/mnt/newdisk3/data_for2d/virus/covid19/P4216159-FANG_SU_JUAN-20200130.nii,4
+35,/mnt/newdisk3/data_for2d/bacteria/Acinetobacter bowman/P4441675-XIONG_ZONG_MIN-20200831.nii,9
+36,/mnt/newdisk3/data_for2d/virus/covid19/P4223727-ZHAO_LI_HUA-20200311.nii,4
+37,/mnt/newdisk3/data_for2d/fungus/cryptococcus/P2333115-HU_MENG_LIN-20160811.nii,7
+38,/mnt/newdisk3/data_for2d/bacteria/Pseudomonas aeruginosa/P2477365-REN_LUN_CHENG-20161205.nii,11
+39,/mnt/newdisk3/data_for2d/fungus/candida/P3937821-ZHONG_JIA_QIN-20190814.nii,6
+40,/mnt/newdisk3/data_for2d/virus/H7N9/CT1705812-LIN XIAO YUE-20170328.nii,2
+41,/mnt/newdisk3/data_for2d/fungus/PCP/P4448578-CHEN_LE-20200904.nii,8
+42,/mnt/newdisk3/data_for2d/fungus/PCP/CT2012631-ZHANG ZHONG XIAN-20200601.nii,8
+43,/mnt/newdisk3/data_for2d/fungus/candida/P4534671-GONG_YUN_XIU-20201025.nii,6
+44,/mnt/newdisk3/data_for2d/bacteria/Streptococcus/P4048402-GONG_XIAO_MIAO-20191022.nii,13
+45,/mnt/newdisk3/data_for2d/virus/covid19/P2557929-SHANG_YING_PING-20200211.nii,4
+46,/mnt/newdisk3/data_for2d/bacteria/S. aureus/P3545187-HUANG_HAI_LIANG-20181228.nii,12
+47,/mnt/newdisk3/data_for2d/virus/Coxsackie virus/P3866768-ZHANG_JIA_CHENG-20190709.nii,1
+48,/mnt/newdisk3/data_for2d/bacteria/Pseudomonas aeruginosa/P4146676-GONG_ZHU_JUN-20191229.nii,11
+49,/mnt/newdisk3/data_for2d/virus/Coxsackie virus/P1753970-XU_JU_E-20150824.nii,1

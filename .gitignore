@@ -7,7 +7,6 @@ weights
 cam_jpgs_resnet_new
 cam_rew
 data/txt
-fractal_dimension/*.txt
 re
 deep_f
 radiomics/*.npy
@@ -22,7 +21,6 @@ radiomics
 reader*
 view_segs
 *.csv
-*.txt
 *.xlsx
 segmentation/*.pth
 *.vscode
