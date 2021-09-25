@@ -28,6 +28,10 @@ analysis_tools
 *.jpg
 *.list
 *.sh
+answer*.txt
+error.txt
+log.txt
+val_slices_count.txt
 save*
 logs
 key_result
