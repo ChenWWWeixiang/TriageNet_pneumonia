@@ -1,0 +1,62 @@
+title = "dbz PyTorch"
+
+[general]
+usecudnn = true
+usecudnnbenchmark = true
+gpuid = "0"
+loadpretrainedmodel = false
+random_seed = true
+pretrainedmodelpath = 'weights/stack_dbz_{}.pt'
+use_3d = false
+use_lstm=false
+use_slice=true
+use_plus=false
+use25d=false
+plus_as_input=false
+mod='dbz'#'ab 
+class_num=6
+clinic=false
+mc=false 
+stacked=true
+
+[input]
+batchsize = 96
+numworkers = 16
+shuffle = true
+
+[model]
+type = "Finetune-label"
+inputdim = 256
+hiddendim = 256
+#class_num = 6
+numlstms = 2
+subcls=true
+
+[training]
+train = true
+epochs = 41
+startepoch = 1
+statsfrequency = 3000
+data_root = ''#useless and used as ages_gender.txt path
+index_root = 'data/txt/train_dbz.txt'
+padding = 35
+learningrate = 1e-4
+momentum = 0.99
+weightdecay = 0.05
+save_prefix = "weights/stack_dbz_{}"
+
+[validation]
+validate = true
+data_root = ''
+index_root = 'data/txt/val_dbz.txt'
+padding = 100#45
+saveaccuracy = false
+saves='re/dbz_{}.npy'
+
+[test]
+test = true
+data_root = 'G'
+index_root = ''
+padding = 45
+topk=5
+saveaccuracy = false

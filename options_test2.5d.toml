@@ -1,0 +1,63 @@
+title = "dbz PyTorch 2.5d"
+
+[general]
+usecudnn = true
+usecudnnbenchmark = true
+gpuid = "0"
+loadpretrainedmodel = true
+random_seed = true
+pretrainedmodelpath = 'weights/dbz2.5d_{}.pt'
+use_3d = false
+use_lstm=false
+use_slice=true
+use_plus=false
+use25d=true
+plus_as_input=false
+mod='dbz'#'ab 
+class_num=6
+clinic=false
+mc=false 
+stacked=false
+
+[input]
+batchsize = 4
+numworkers = 8
+shuffle = true
+croped=false
+
+[model]
+type = "Finetune-label"
+inputdim = 256
+hiddendim = 256
+#class_num = 6
+numlstms = 2
+subcls=true
+
+[training]
+train = true
+epochs = 61
+startepoch = 21
+statsfrequency = 50
+data_root = ''#useless and used as ages_gender.txt path
+index_root = 'for_dbz_pre/jsons/train.json'
+padding = 120
+learningrate = 1e-6
+momentum = 0.99
+weightdecay = 0.005
+save_prefix = "weights/dbz2.5d_{}"
+
+[validation]
+validate = true
+data_root = ''
+index_root = 'for_dbz_pre/jsons/val.json'
+padding = 120#45
+saveaccuracy = false
+saves='re/dbz_{}.npy'
+
+[test]
+test = false
+data_root = 'G'
+index_root = ''
+padding = 80
+topk=5
+saveaccuracy = false
