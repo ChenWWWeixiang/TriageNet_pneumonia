@@ -60,8 +60,12 @@ Citation
 If you find this project helpful, please cite our paper:
 
 ```
-@article {OpenCovidDetector,
-	author = {Jin, Cheng and Chen, Weixiang and Cao, Yukun and Xu, Zhanwei and Zhang, Xin and Deng, Lei and Zheng, Chuansheng and Zhou, Jie and Shi, Heshui and Feng, Jianjiang},
-	title = {Development and Evaluation of an AI System for COVID-19 Diagnosis},
-	year = {2020}, doi = {10.1101/2020.03.20.20039834},journal = {medRxiv}}
+@article{chen2021deep,
+  title={Deep diagnostic agent forest (DDAF): A deep learning pathogen recognition system for pneumonia based on CT},
+  author={Chen, Weixiang and Han, Xiaoyu and Wang, Jian and Cao, Yukun and Jia, Xi and Zheng, Yuting and Zhou, Jie and Zeng, Wenjuan and Wang, Lin and Shi, Heshui and others},
+  journal={Computers in biology and medicine},
+  pages={105143},
+  year={2021},
+  publisher={Elsevier}
+}
 ```
